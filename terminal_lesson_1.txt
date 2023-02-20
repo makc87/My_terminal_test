@@ -1,10 +1,15 @@
-pwd
-cd
-ls
-ls -la
-cat
-vim
-touch
-mkdir
-cp
-rm
+{  
+             "person_name": "Antouan",
+	     "person_age": 23,
+	     "person_devices": {
+	                         	"devices_1":"iphon 12 pro",
+					"devices_2":"Redme 8 pro"
+
+
+
+
+
+
+}
+
+
